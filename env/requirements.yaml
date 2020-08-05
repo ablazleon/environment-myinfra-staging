@@ -16,6 +16,9 @@ dependencies:
 - name: myexample
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
+- name: myserver
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: udagram-frontend
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.15
