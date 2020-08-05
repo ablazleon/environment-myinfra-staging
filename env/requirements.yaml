@@ -10,6 +10,9 @@ dependencies:
 - name: ml-api-docker-k8
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: my-server
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: myexample
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
